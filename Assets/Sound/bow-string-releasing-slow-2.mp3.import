@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/bow-string-releasing-slow-2.mp3-fa7fe98aaa8e5bfa4d63052f19fd70c5.mp3str"
+
+[deps]
+
+source_file="res://Assets/Sound/bow-string-releasing-slow-2.mp3"
+dest_files=[ "res://.import/bow-string-releasing-slow-2.mp3-fa7fe98aaa8e5bfa4d63052f19fd70c5.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

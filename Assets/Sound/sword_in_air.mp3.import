@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/sword_in_air.mp3-4d153da8eaa4f334c0ac6c0036d098eb.mp3str"
+
+[deps]
+
+source_file="res://Assets/Sound/sword_in_air.mp3"
+dest_files=[ "res://.import/sword_in_air.mp3-4d153da8eaa4f334c0ac6c0036d098eb.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
